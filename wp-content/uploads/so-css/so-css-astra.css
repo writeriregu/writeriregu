@@ -1,0 +1,14 @@
+.entry-content p {
+  font-style: normal;
+  color: #444444;
+  line-height: 40px;
+}
+
+blockquote {
+  background-color: #F4E4C1;
+  border-color: #F7C147;
+}
+
+.saboxplugin-tab {
+  background-color: #f4e4c1;
+}
